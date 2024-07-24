@@ -1,0 +1,24 @@
+1) Go to the folder, right click and Git bash
+2) (initialize)	-	 git init
+3) (status)		-	 git status
+3) (add files)	-	 git add .
+4) (commit)		-	 git commit -m "Initial commit"
+5) (status)		-	 git status
+6) (adding link)	- 	 git remote add origin Your SSH Link
+7) (uploading files) - 	 git push origin Your Brach name
+8) (if failed)	   -	 git push origin Your branch name --force
+9) (if authentication error)	-	 git remote set-url origin https://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@github.com/sampathvenur/Your Repository name.git
+
+Then try step (8)
+
+Token: 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
+Expires on Sat, Dec 2 2023.
+
+new ssh:
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC5QSi8SVOUapQ5SvEMnNuFBcUjggWZ0Sm+nS5lBxmEJ sampathkumarvenur@gmail.com
+
+
+
+
+SHA256:maBl4/Sk3Slp3WLVPFuVtcoMCBAzz9X3y+mPih1IK4A
